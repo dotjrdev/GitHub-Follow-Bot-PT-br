@@ -1,4 +1,14 @@
-# GitHub Follow Bot
+# Bot para obter seguidores em PT-br 
+Recentemente um pessoal vem "seguindo minhas redes socias com boots" no qual desconheço o motivo, talvez outras pessoas estejam passando por isso então resolvi 
+divulgar esse form em português e tentar contribuir explicando como funciona os boots, seus riscos, além do porque algumas pessoas usam. Quem quiser pode ficar avontade para cotribuir com projeto como puder, vou terminar esse projeto de acordo com tempo livre disponível. 
+
+
+## Para fazer
+- [ ] Tradução 
+- [ ] Site hospedado open source 
+- [ ] Adicionar outros boots ao projeto
+- [ ] Criar video explicando em português
+
 ## 11-28-22
 I'm not sure when I'll get around to finishing this tool due to other projects I'm working on. However, I wanted to note that mass following users is against GitHub's TOS (not stated below). Therefore, please use at your own risk!
 
